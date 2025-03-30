@@ -5,4 +5,4 @@ Author - Jyotiraditya
 <br>
 Birla Institute of Technology Mesra
 <br>
-Athlete
+Athlete,Sports
